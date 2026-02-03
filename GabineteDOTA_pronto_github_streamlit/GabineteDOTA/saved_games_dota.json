@@ -1,0 +1,39 @@
+[
+  {
+    "key": "(todas)::heroic::mouz",
+    "league": "(Todas)",
+    "team1": "MOUZ",
+    "team2": "HEROIC",
+    "created_at": "2025-11-26 13:37:39",
+    "updated_at": "2025-11-26 13:37:39",
+    "lines": {
+      "total_kills": [
+        46.5,
+        49.5
+      ],
+      "total_towers": [
+        12.5
+      ],
+      "total_roshans": [
+        2.5
+      ],
+      "total_barracks": [
+        5.5
+      ],
+      "total_time_min": [
+        39.0,
+        39.5
+      ],
+      "hc_kills_t1": [
+        -7.5
+      ],
+      "hc_towers_t1": [
+        -3.5
+      ],
+      "hc_roshans_t1": [
+        -0.5
+      ],
+      "hc_barracks_t1": []
+    }
+  }
+]
